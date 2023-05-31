@@ -18,13 +18,13 @@ This script `postfix-secured.sh` configures the Postfix SMTP server on a Plesk s
 2. **Make the script executable:**
 
     ```bash
-    chmod +x configure_postfix.sh
+    chmod +x postfix-secured.sh
     ```
 
 3. **Run the script as root:**
 
     ```bash
-    sudo ./configure_postfix.sh
+    sudo ./postfix-secured.sh
     ```
 
 ---
